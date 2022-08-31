@@ -15,3 +15,4 @@ I compare a Buy-and-Hold strategy against the model strategy
 
 unfortunately the sharpe ratio does not increase, as suggested in the paper I used as a foundation
 it was an interesting exercise though
+these are just a few extracts from what I have tried to build this model (parameter tuning, training data generation, model specification, etc.)
